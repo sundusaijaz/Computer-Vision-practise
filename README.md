@@ -6,3 +6,4 @@ This repository contains important topics that will help in working **Computer V
 2. Seaborn
 3. Pandas Data Visualisation
 4. Geographical Plotting
+5. Data Capstone Project
