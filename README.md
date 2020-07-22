@@ -7,3 +7,4 @@ This repository contains important topics that will help in working **Computer V
 3. Pandas Data Visualisation
 4. Geographical Plotting
 5. Data Capstone Project
+6. Linear Regression 
