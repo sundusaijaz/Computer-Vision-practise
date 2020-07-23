@@ -9,3 +9,4 @@ This repository contains important topics that will help in working **Computer V
 5. Data Capstone Project
 6. Linear Regression 
 7. K_Nearest Neighbors
+8. Decision Tree and Random Forest
