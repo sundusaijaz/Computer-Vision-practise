@@ -12,3 +12,4 @@ This repository contains important topics that will help in working **Computer V
 8. Decision Tree and Random Forest
 9. Support Vector Machine
 10. K Means Clustering
+11. Natural Language Processing
