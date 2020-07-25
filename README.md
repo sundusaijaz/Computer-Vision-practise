@@ -13,3 +13,4 @@ This repository contains important topics that will help in working **Computer V
 9. Support Vector Machine
 10. K Means Clustering
 11. Natural Language Processing
+12. Deep Learning Project
